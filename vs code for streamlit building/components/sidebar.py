@@ -1,7 +1,7 @@
 import streamlit as st
 
-
 def sidebar():
+    st.sidebar.title("Shopper Spectrum")
 
     with st.sidebar:
 
